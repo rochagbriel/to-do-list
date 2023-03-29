@@ -1,6 +1,7 @@
 # To-Do-List
 
 This is a simple To-Do List application created with jQuery. The application allows the user to create, edit, and delete tasks to be completed, as well as mark tasks as complete. The application was created as a way to practice basic jQuery concepts, such as DOM manipulation and event handling.
+You can find the live demo of this website at rochagbriel.github.io/to-do-list/.
 
 ## Technologies Used
 
